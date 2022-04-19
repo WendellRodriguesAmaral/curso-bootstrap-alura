@@ -1,0 +1,5 @@
+.imagem-carrosel{
+    object-fit: cover; /*cobre toda a área do elemento pai porem sem perder a proporção*/
+    object-position: 0 80%; /* move eixo x e eixo y */
+    height: 400px;
+}

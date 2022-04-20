@@ -1,3 +1,4 @@
+
 .imagem-carrosel{
     object-fit: cover; /*cobre toda a área do elemento pai porem sem perder a proporção*/
     object-position: 0 80%; /* move eixo x e eixo y */
@@ -11,4 +12,22 @@ h1.fonte-titulo{
 
 .cor-especial{
     color:darkred;
+}
+
+.card-largura{
+    width: 18rem;
+}
+
+.botao-cor-especial{
+    background-color:darkred;
+    color:white;
+}
+
+.borda-cor-especial{
+    border-color:darkred;
+}
+
+.card-posicao-imagem{
+    object-fit: cover; /*cobre toda a área do elemento pai porem sem perder a proporção*/
+    height: 200px;
 }

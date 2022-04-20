@@ -3,3 +3,12 @@
     object-position: 0 80%; /* move eixo x e eixo y */
     height: 400px;
 }
+
+
+h1.fonte-titulo{
+    font-family: 'Pacifico', cursive;
+}
+
+.cor-especial{
+    color:darkred;
+}
